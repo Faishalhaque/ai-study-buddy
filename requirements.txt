@@ -4,5 +4,5 @@ pypdf==4.2.0
 python-dotenv==1.0.1
 fpdf2==2.7.9
 plotly==5.22.0
-streamlit-lottie==0.2.0
+streamlit-lottie==0.0.5
 requests==2.32.3
